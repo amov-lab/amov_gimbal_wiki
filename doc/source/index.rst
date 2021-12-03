@@ -38,6 +38,8 @@
 
    KCF跟踪算法 <docs/tracking/KCF跟踪算法>
    DeepSort跟踪算法 <docs/tracking/DeepSort跟踪算法>
+   地面站使用 <docs/gimbal_ground_station/地面站wiki>
+   
    操作流程 <docs/tracking/操作流程>
    常见问题处理 <docs/tracking/常见问题处理>
 
