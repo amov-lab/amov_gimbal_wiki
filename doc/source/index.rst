@@ -25,9 +25,9 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: E200智能吊舱
+   :caption: E20智能吊舱
 
-   E200智能吊舱介绍 <docs/gimbal/E200智能吊舱介绍>
+   E20智能吊舱介绍 <docs/gimbal/E20智能吊舱介绍>
    操作流程 <docs/gimbal/操作流程>
    常见问题处理 <docs/gimbal/常见问题处理>
 
